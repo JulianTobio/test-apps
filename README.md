@@ -1,2 +1,2 @@
 # test-apps
-Hello from dev
+Hello from main
